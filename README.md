@@ -1,2 +1,5 @@
 # CSW4020
-NLP with NLTK
+
+* Prof, Jungha Hong
+* Sogang Univ. NLP and Information processing
+* NLP with NLTK
